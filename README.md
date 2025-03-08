@@ -1,4 +1,4 @@
-# Megha-Ganapati-Somagondara
+
 The document **"Teckshama.docx"** is a **project report** on an **AI-powered Resume Screening and Ranking System**. It was submitted as part of an **AICTE Internship on AI: Transformative Learning** under **TechSaksham**, a **joint CSR initiative by Microsoft & SAP**.
 
 ---
